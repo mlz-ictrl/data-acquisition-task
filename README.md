@@ -33,6 +33,10 @@ unexpected errors (like incomplete packets or a broken TCP connection) reasonabl
 Don't use any libraries except for the C and Python standard libraries, numpy and
 matplotlib.  The code does not need to be particularly optimized for speed.
 
+:warning: The finished code should be sent in a few days before the interview.
+During the interview, you should be able to show the code using screen sharing
+in an editor/IDE, and run it. :warning:
+
 ## Data format specification
 
 The file content is a sequence of *packets*.  Each packet contains a *header*
